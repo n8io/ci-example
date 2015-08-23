@@ -1,4 +1,4 @@
-FROM heroku/node
+FROM heroku/nodejs
 MAINTAINER Nate Clark <nate@n8io.com>
 
 # Setup NodeSource Official PPA
